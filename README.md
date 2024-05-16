@@ -1,5 +1,5 @@
 
-# AlgoViz
+# AlgoViz - Sorting and CPU Scheduling Visualizers
 
 Embark on a journey through computing efficiency with Sorting and CPU Scheduling Visualizers. Witness sorting algorithms in action and explore CPU scheduling dynamics in real-time. Gain insights into computational efficiency and operating system performance with these interactive tools.
 
